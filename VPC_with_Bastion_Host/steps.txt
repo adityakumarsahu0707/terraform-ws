@@ -1,0 +1,15 @@
+Steps:
+
+1. Create a VPC - CIDR (192.168.0.0/16)
+
+2. Create Subnets 
+	Subnet 1 : Lab 1 - CIDR (192.168.1.0/24)
+		VPC connect, AZ - us-east1a (Public)
+
+	Subnet 2 : Lab 2 - CIDR (192.168.2.0/24)
+		VPC connect, AZ - us-east1b (Private)
+
+	Subnet 3 : Lab 3 - CIDR (192.168.3.0/24)
+		VPC connect, AZ - us-east1b (Private)
+
+3. 
